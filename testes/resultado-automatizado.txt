@@ -1,0 +1,58 @@
+APROVADO TM01
+APROVADO TM02
+APROVADO TM03
+APROVADO TM04
+APROVADO TM05
+APROVADO TM06
+APROVADO TM07
+APROVADO TM08
+APROVADO TM09
+APROVADO TM10
+APROVADO TM11
+APROVADO TM12
+APROVADO TM13
+APROVADO TM14
+APROVADO TM15
+APROVADO TM16
+APROVADO TM17
+APROVADO TM18
+APROVADO TM19
+APROVADO TM20
+APROVADO TM21
+APROVADO TM22
+APROVADO TM23
+APROVADO TA01
+APROVADO TA02
+APROVADO TA03
+APROVADO TA04
+APROVADO TA05
+APROVADO TA06
+APROVADO TA07
+APROVADO TA08
+APROVADO TA09
+APROVADO TA10
+APROVADO EX01 Maioria entre peças diferentes
+APROVADO EX02 Empate de sequências permite ambas
+APROVADO EX03 Capturados bloqueiam e não são recapturados
+APROVADO EX04 Dama aceita todas as aterrissagens empatadas
+APROVADO EX05 Dama escolhe aterrissagem pela maioria futura
+APROVADO EX06 Promoção somente no fim da captura
+APROVADO EX07 Promoção ao terminar captura na última linha
+APROVADO EX08 Regras espelhadas para pretas
+APROVADO EX09 Vitória preta por eliminação
+APROVADO EX10 Dama não atravessa duas peças nem aliada
+APROVADO EX11 Captura é obrigatória em outra peça
+APROVADO EX12 Preservação de damas, nomes e vitória
+APROVADO EX13 Arquivos estruturalmente corrompidos
+APROVADO EX14 Falhas de leitura e escrita
+APROVADO EX15 Entrada incompleta, EOF e sem partida
+APROVADO EX16 Caminho com espaços e caixa preservada
+APROVADO EX17 Maioria continua sendo exigida após etapa comum
+APROVADO EX18 Captura para trás de peça preta
+APROVADO EX19 Rejeita posição impossível no carregamento
+APROVADO EX20 Retorno a casa antes vazia após circuito
+APROVADO EX21 UTF-8 inválido e tamanho excessivo
+APROVADO EX22 Arquivo com quebras de linha CRLF
+APROVADO EX23 Escrita sobre diretório preserva dados e limpa temporários
+APROVADO EX24 Delimitadores ESTADO em linhas exatas
+RESULTADO: 57 aprovados; 0 reprovados.
